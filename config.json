@@ -1,0 +1,9 @@
+{
+    "stock_pairs": [
+        ["603501", "603986"],
+        ["600036", "601166"]
+    ],
+    "threshold": 0.03,
+    "interval": 60,
+    "pushplus_token": "此处输入token"
+}
